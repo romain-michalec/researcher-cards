@@ -74,6 +74,7 @@ Its output:
 
 The matcher:
 
-* `matcher/areas/`: Markdown files describing the opportunity areas, to upload to the Project.
+* `matcher/project.md`: How to set up the Project: its name and description, and which files to paste or upload.
 * `matcher/instructions.md`: Instructions to paste into the Project.
+* `matcher/areas/`: Markdown files describing the opportunity areas, to upload to the Project.
 * `matcher/examples.md`: Example questions for the Project, and checks with known answers.

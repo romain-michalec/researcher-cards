@@ -1,4 +1,4 @@
-# Example questions for the Funding Opportunity Matcher
+# Example questions for the matcher
 
 Questions to ask the Claude Project, followed by checks with known answers for testing the Project after the cards or area files change.
 
